@@ -1,0 +1,91 @@
+.css1 {
+	font-size: 9pt;
+}
+.css2 {
+	font-size: 14px;
+}
+
+.css3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 30pt;
+	
+}
+.css4 {
+	font-size: 9pt;
+	color: #666666;
+}
+.css5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 30pt;
+	color: #009900;
+}
+.css6 {
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #009900;
+}
+.css7 {
+	font-family: "ÐÂËÎÌå";
+	font-size: 10pt;
+	font-weight: 600;
+	color: #FFFFFF;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: medium;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #009900;
+	border-left-color: #333333;
+}
+.css10 {
+	font-size: 12pt;
+	font-weight: 600;
+	color: #000000;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #000000;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #000000;
+	border-left-color: #FFFFFF;
+}
+.title {
+	font-family: "ËÎÌå";
+	font-size: 14pt;
+	font-weight: 500;
+	color: #003366;
+}
+.price {
+	font-size: 24pt;
+	font-weight: 600;
+	color: #009900;
+}
+.originalprice {
+	font-size: 10pt;
+	color: #666666;
+	text-decoration: line-through;
+}
+.button1 {
+	font-size: 9pt;
+	color: #FFFFFF;
+	background-color: #009900;
+	border-color:#009900;
+}
+.button2 {
+	font-size: 9pt;
+	color:  #FFFFFF;
+	background-color:#FF0033;
+	border-color:#FF0033;
+}
+.button3 {
+	font-size: 9pt;
+	color: #FFFFFF;
+	background-color:#0000FF;
+	border-color:#0000FF;
+}
